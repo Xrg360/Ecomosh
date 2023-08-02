@@ -14,15 +14,16 @@ ECOMOSH is a beautiful and user-friendly E-Commerce UI app built using Flutter. 
 
 ## Screenshots
 
-![Homepage2](https://github.com/Xrg360/Ecomosh/assets/86565903/dd50af30-3a5d-4c16-be94-a31850222943)
+![splash](https://github.com/Xrg360/Ecomosh/assets/86565903/29037b9c-d484-4789-969c-deb4f3d299a3)
+![signin](https://github.com/Xrg360/Ecomosh/assets/86565903/24ed870d-8d35-489f-ba0a-0040008c2f3b)
 ![loginSuccess](https://github.com/Xrg360/Ecomosh/assets/86565903/c5393cb4-e5cb-4297-ac11-1e1543d0e5f8)
+![homepage](https://github.com/Xrg360/Ecomosh/assets/86565903/4f04e299-16ea-4e83-9fed-64e7cdb87c49)
+![Homepage2](https://github.com/Xrg360/Ecomosh/assets/86565903/dd50af30-3a5d-4c16-be94-a31850222943)
 ![notification](https://github.com/Xrg360/Ecomosh/assets/86565903/5b58ed0b-de11-41b5-9a65-9ac6ade58a3a)
 ![productpage](https://github.com/Xrg360/Ecomosh/assets/86565903/bed99f76-586d-4103-ab58-25a67100b3d0)
 ![profileSection](https://github.com/Xrg360/Ecomosh/assets/86565903/10210460-0569-4291-9eb6-f9ea85117024)
-![signin](https://github.com/Xrg360/Ecomosh/assets/86565903/24ed870d-8d35-489f-ba0a-0040008c2f3b)
-![splash](https://github.com/Xrg360/Ecomosh/assets/86565903/29037b9c-d484-4789-969c-deb4f3d299a3)
 ![cart](https://github.com/Xrg360/Ecomosh/assets/86565903/a34b73b4-a87c-4965-beb6-7407451332fc)
-![homepage](https://github.com/Xrg360/Ecomosh/assets/86565903/4f04e299-16ea-4e83-9fed-64e7cdb87c49)
+
 
 ## Installation
 
