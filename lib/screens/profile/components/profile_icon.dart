@@ -17,7 +17,7 @@ class ProfileIcon extends StatelessWidget {
 
         children: [
           CircleAvatar(
-            backgroundImage: AssetImage("assets/images/Profile Image.png"),
+            backgroundImage: AssetImage("assets/icons/User Icons.svg"),
 
           ),
           Positioned(
