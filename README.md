@@ -14,7 +14,7 @@ ECOMOSH is a beautiful and user-friendly E-Commerce UI app built using Flutter. 
 
 ## Screenshots
 
-![Homepage](https://github.com/Xrg360/Ecomosh/blob/master/screenshots/Screenshot_20230802_201429.png)
+![Homepage](https://drive.google.com/file/d/1hZMdp-CbEeHVlJzrgXMkqUyIe775Ip5d/view?usp=drive_link)
 ![Sign-In Form](https://github.com/Xrg360/Ecomosh/blob/master/screenshots/Screenshot_20230802_201605.png)
 ![LoginSuccess](https://github.com/Xrg360/Ecomosh/blob/master/screenshots/loginSuccess.png)
 ![Profile Page](https://github.com/Xrg360/Ecomosh/blob/master/screenshots/profileScreen.png)
