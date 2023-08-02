@@ -1,7 +1,5 @@
 # ECOMOSH - Flutter E-Commerce UI App
 
-![ECOMOSH Logo](app_logo.png)
-
 ECOMOSH is a beautiful and user-friendly E-Commerce UI app built using Flutter. This app provides a seamless shopping experience to users with various essential screens, such as Splash Screen, Homepage, Profile Page, Cart Product Page, Notification Page, Sign-In Form, and Forgot Password Page. Whether you are a Flutter enthusiast, a developer, or an entrepreneur planning to kickstart your E-Commerce project, ECOMOSH is a perfect starting point!
 
 ## Features
